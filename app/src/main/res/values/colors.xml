@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="deshabilitado">#42221f1f</color>
+    <color name="deshabiliradoF">#1c000000</color>
+    <color name="hailitado">#62f10a</color>
+</resources>
